@@ -1,31 +1,39 @@
 {
   "request": {
-    "name": "Request"
+    "name": "Request",
+    "path": "/request"
   },
   "rankings": {
     "name": "Rankings",
+    "path": "/rankings",
     "new-feature": true
   },
   "benchmarks": {
-    "name": "Benchmarks"
-  },
-  "top": {
-    "name": "Top",
-    "hide": true
+    "name": "Benchmarks",
+    "path": "/benchmarks"
   },
   "distributions": {
-    "name": "Distributions"
+    "name": "Distributions",
+    "path": "/distributions"
   },
   "picks": {
-    "name": "Picks"
+    "name": "Picks",
+    "path": "/picks"
   },
   "mmstats": {
-    "name": "MMStats"
+    "name": "MMStats",
+    "path": "/mmstats"
   },
   "carry": {
-    "name": "Carry"
+    "name": "Carry",
+    "path": "/carry"
   },
   "search": {
-    "name": "Search"
+    "name": "Search",
+    "path": "/search"
+  },
+  "api": {
+    "name": "API",
+    "path": "//swagger.yasp.co"
   }
 }
